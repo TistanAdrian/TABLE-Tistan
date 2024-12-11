@@ -1,0 +1,126 @@
+.vanish, th{
+    empty-cells: hide;
+}
+
+table, tr{
+    border-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+
+table{
+    width: 1700px;
+    height: 900
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+td, tr, th{
+    width: 100px;
+    height: 100px;
+}
+
+.skupina{
+    color: rgb(200, 200, 200)
+}
+
+.mezera{
+    empty-cells: hide;
+    height: 10px;
+}
+
+.alkalicke{
+    background-color: rgb(224, 106, 85);
+}
+
+.kovy_alkalickych_zemin{
+    background-color: rgb(255, 166, 0);
+}
+
+.prechodne{
+    background-color: rgb(223, 175, 255);
+}
+
+.kovy{
+    background-color: rgb(133, 186, 255);
+}
+
+.polokovy{
+    background-color: rgb(160, 255, 250);
+}
+
+.nekovy{
+    background-color: rgb(126, 209, 106);
+}
+
+.halogeny{
+    background-color: rgb(0, 153, 255);
+}
+
+.vzacne_plyny{
+    background-color: rgb(255, 255, 0);
+}
+
+.alkalicke_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(224, 106, 85);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.halogeny_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(0, 153, 255);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.kovy_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(133, 186, 255);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.kovy_alkalickych_zemin_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(255, 166, 0);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.prechodne_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(223, 175, 255);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.polokovy_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(160, 255, 250);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.nekovy_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(126, 209, 106);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.vzacne_plyny_{
+    font-size: 10px;
+    padding: 5px;
+    background-color: rgb(255, 255, 0);
+    border: 0px solid rgb(255, 255, 255);
+}
+
+.lanthanoidy, .aktinoidy{
+    padding: 5px;
+}
